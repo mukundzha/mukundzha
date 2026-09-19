@@ -1,23 +1,34 @@
-<h1 align="center">Hey, I'm Mukund 👋</h1>
+<h1 align="center">Mukund</h1>
 
 <p align="center">
-  Programmer • Open-source builder • Developer tooling
+  <code>make it useful. make it simple. ship it.</code>
 </p>
 
 <p align="center">
-  I build small, practical tools for developers.<br/>
-  Currently building <a href="https://github.com/mukundzha/hazzel">Hazzel</a> — an open-source terminal coding agent.
+  I build developer tools, break things, fix them,<br/>
+  and occasionally ship something worth keeping.
 </p>
 
 <p align="center">
-  <a href="https://github.com/mukundzha/hazzel">
-    <img src="https://img.shields.io/badge/Hazzel-181717?style=for-the-badge&logo=github" alt="Hazzel">
-  </a>
-  <a href="https://paypal.me/mukundzi">
-    <img src="https://img.shields.io/badge/Support%20my%20work-0070BA?style=for-the-badge&logo=paypal&logoColor=white" alt="Support my work">
-  </a>
+  <a href="https://github.com/mukundzha/hazzel"><b>Hazzel</b></a>
+  ·
+  <a href="https://github.com/mukundzha?tab=repositories">Projects</a>
+  ·
+  <a href="https://paypal.me/mukundji">Support</a>
 </p>
 
-<p align="center">
-  Python • Git • Linux • CLI • AI
-</p>
+```text
+┌─ currently
+│
+│  Hazzel
+│  └─ a terminal coding agent
+│
+├─ interested in
+│
+│  developer tools · AI · CLI · open source
+│
+└─ philosophy
+   └─ if it can be simpler, make it simpler.
+```
+
+<p align="center">   <sub>Built with curiosity and too many terminal sessions.</sub> </p>
