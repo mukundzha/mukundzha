@@ -1,4 +1,4 @@
-<h1 align="center">MUKUND</h1>
+<h1 align="center">Mukund</h1>
 
 <p align="center">
   <code>build less. understand more.</code>
@@ -13,5 +13,5 @@
   ·
   <a href="https://github.com/mukundzha?tab=repositories">Projects</a>
   ·
-  <a href="https://paypal.me/mukundji">Support</a>
+  <a href="https://paypal.me/mukundzi">Support</a>
 </p>
