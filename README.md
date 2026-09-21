@@ -13,9 +13,6 @@
   ·
   <a href="https://github.com/mukundzha?tab=repositories">Projects</a>
   ·
-  <a href="https://paypal.me/mukundji">Support</a>
+  <a href="https://paypal.me/mukundzi">Support</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukundzha" alt="profile views">
-</p>
