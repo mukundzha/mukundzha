@@ -19,7 +19,6 @@
              '-.              .-'
                 '------------'
 
-                    mukund
 ```
 
 `build · break · repeat`
