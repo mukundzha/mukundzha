@@ -7,10 +7,3 @@
 <p align="center">
   Developer · Open Source · AI
 </p>
-
-<p align="center">
-  
-  <a href="https://github.com/mukundzha?tab=repositories">Projects</a>
-  
-</p>
-
