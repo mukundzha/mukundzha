@@ -9,10 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mukundzha/hazzel">Hazzel</a>
-  ·
+  
   <a href="https://github.com/mukundzha?tab=repositories">Projects</a>
-  ·
-  <a href="https://paypal.me/mukundzi">Support</a>
+  
 </p>
 
