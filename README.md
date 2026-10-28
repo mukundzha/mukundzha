@@ -1,6 +1,6 @@
 hi, i am mukund.
 <br>
-i code (mostly python)
+i code (mostly python & golang)
 <br>
 check my pinned (best) projects
 <br>
