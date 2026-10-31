@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./hero/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./hero/hero-light.svg">
-    <img src="./hero/hero-light.svg" width="100%" alt="hi, i'm mukund. i build calm tools for the terminal. terminal enjoyer and open source maintainer.">
+    <source media="(prefers-color-scheme: dark)" srcset="./hero/nebula-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./hero/nebula-light.svg">
+    <img src="./hero/nebula-light.svg" width="100%" alt="Mukund Jha — animated nebula profile README">
   </picture>
 </p>
 
